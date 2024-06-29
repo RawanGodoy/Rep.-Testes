@@ -1,2 +1,2 @@
 # Rep. Testes
- Primeiro repositório, função de testes
+ Primeiro repositório, função de testes.
